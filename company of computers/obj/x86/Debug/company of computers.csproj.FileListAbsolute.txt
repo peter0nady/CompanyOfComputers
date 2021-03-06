@@ -1,0 +1,34 @@
+C:\Users\PC\Desktop\company of computers\company of computers\bin\Debug\company of computers.exe
+C:\Users\PC\Desktop\company of computers\company of computers\bin\Debug\company of computers.pdb
+C:\Users\PC\Desktop\company of computers\company of computers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\company of computers\company of computers\obj\x86\Debug\company_of_computers.Form1.resources
+C:\Users\PC\Desktop\company of computers\company of computers\obj\x86\Debug\company_of_computers.Properties.Resources.resources
+C:\Users\PC\Desktop\company of computers\company of computers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PC\Desktop\company of computers\company of computers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PC\Desktop\company of computers\company of computers\obj\x86\Debug\company of computers.exe
+C:\Users\PC\Desktop\company of computers\company of computers\obj\x86\Debug\company of computers.pdb
+C:\Users\ssa\Desktop\company of computers\company of computers\obj\x86\Debug\company of computers.exe
+C:\Users\ssa\Desktop\company of computers\company of computers\obj\x86\Debug\company of computers.pdb
+C:\Users\ssa\Desktop\company of computers\company of computers\bin\Debug\company of computers.exe
+C:\Users\ssa\Desktop\company of computers\company of computers\bin\Debug\company of computers.pdb
+C:\Users\ssa\Desktop\company of computers\company of computers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ssa\Desktop\company of computers\company of computers\obj\x86\Debug\company_of_computers.Form1.resources
+C:\Users\ssa\Desktop\company of computers\company of computers\obj\x86\Debug\company_of_computers.Properties.Resources.resources
+C:\Users\ssa\Desktop\company of computers\company of computers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ssa\Desktop\company of computers\company of computers\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\courses\Visual Tasks\company of computers\company of computers\obj\x86\Debug\company of computers.exe
+E:\courses\Visual Tasks\company of computers\company of computers\obj\x86\Debug\company of computers.pdb
+E:\courses\Visual Tasks\company of computers\company of computers\bin\Debug\company of computers.exe
+E:\courses\Visual Tasks\company of computers\company of computers\bin\Debug\company of computers.pdb
+E:\courses\Visual Tasks\company of computers\company of computers\obj\x86\Debug\company of computers.csprojResolveAssemblyReference.cache
+E:\courses\Visual Tasks\company of computers\company of computers\obj\x86\Debug\company_of_computers.Form1.resources
+E:\courses\Visual Tasks\company of computers\company of computers\obj\x86\Debug\company_of_computers.Properties.Resources.resources
+E:\courses\Visual Tasks\company of computers\company of computers\obj\x86\Debug\company of computers.csproj.GenerateResource.Cache
+E:\courses\work\C#\company of computers\company of computers\obj\x86\Debug\company of computers.exe
+E:\courses\work\C#\company of computers\company of computers\obj\x86\Debug\company of computers.pdb
+E:\courses\work\C#\company of computers\company of computers\bin\Debug\company of computers.exe
+E:\courses\work\C#\company of computers\company of computers\bin\Debug\company of computers.pdb
+E:\courses\work\C#\company of computers\company of computers\obj\x86\Debug\company of computers.csprojResolveAssemblyReference.cache
+E:\courses\work\C#\company of computers\company of computers\obj\x86\Debug\company_of_computers.Form1.resources
+E:\courses\work\C#\company of computers\company of computers\obj\x86\Debug\company_of_computers.Properties.Resources.resources
+E:\courses\work\C#\company of computers\company of computers\obj\x86\Debug\company of computers.csproj.GenerateResource.Cache
